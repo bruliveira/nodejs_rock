@@ -1,0 +1,15 @@
+{
+  "name": "rock_node",
+  "version": "1.0.0",
+  "description": "Criando um servidor...",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Bruna Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodeman": "^1.1.2"
+  }
+}
